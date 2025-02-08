@@ -45,4 +45,3 @@ document.querySelector("#pbtm").addEventListener("click", function(dets){
 runTimer();
 makeBubble();
 getnewhit();
-increasescore();
